@@ -11,4 +11,4 @@ Este projeto faz parte dos Desafios do Discover da Rockeseat, onde os objetivos 
 
 ## **Minha resolução**
 
-
+https://lucasgabriell97.github.io/receitaWaffleClassico/
