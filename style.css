@@ -1,0 +1,107 @@
+/*======= RESET =======*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #eaeaea;
+}
+
+/*======= VARIABLES =======*/
+:root {
+    /* colors */
+    --title-subtitle-color: #1b1b1b;
+    --footer-figcapition-color: #8f8f8f;
+    --text-color: #39393a;
+}
+
+/*======= MAIN =======*/
+
+main {
+    background-color: #fff;
+    margin: 2.5rem 0.8rem;
+    border-radius: 0.6rem;
+    padding: 2rem;
+}
+
+/*======= HEADER AND IMAGE =======*/
+
+#title {
+    font-size: 1.75rem;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 1.3rem;
+    color: var(--title-subtitle-color);
+}
+
+figure img {
+    width: 100%;
+    height: 15.6rem;
+    object-fit: cover;
+    margin-top: 1.3rem;
+    border-radius: 0.6rem;
+}
+
+figure figcaption {
+    font-size: 0.8rem;
+    margin-top: 0.2rem ;
+    text-align: end;
+    color: var(--footer-figcapition-color);
+}
+
+/*======= SECTION =======*/
+
+.sub-title {
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--title-subtitle-color);
+    font-size: 1.2rem;
+    margin-top: 1.3rem;
+    font-weight: 700;
+}
+
+ul li, ol li {
+    list-style-position: inside;
+    line-height: 1.6rem;
+    margin-top: 1rem;
+    color: var(--text-color);
+}
+
+section p {
+    margin-top: 1rem;
+    color: var(--text-color);
+}
+
+/*======= FOOTER =======*/
+
+footer p {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    color: var(--footer-figcapition-color);
+}
+
+footer p a {
+    color: #0078d7;
+}
+
+/* ======= SMARTPHONES =======*/
+
+@media screen and (min-width: 540px) {
+    main {
+        margin: 2.5rem 6rem;
+    }
+}
+
+/* ======= TABLETS AND DESKTOPS =======*/
+
+@media screen and (min-width: 1050px) {
+    main {
+        margin: 2.5rem 23rem;
+    }
+}
+
