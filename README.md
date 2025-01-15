@@ -2,7 +2,9 @@
   💻<br>Receita Waffle Clássico
 </h1>
 
-![Design preview for the blog-codar](./assets/images/project-image.png)
+<div align="center">
+  <img src="./assets/images/project-image.png" alt="Design preview for the blog-codar">
+</div>
 
 <h4 align="center"><a href="https://receita-waffle-classico.vercel.app/" target="_blank">Clique para visitar o projeto</a></h4>
 
