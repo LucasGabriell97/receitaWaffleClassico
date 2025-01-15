@@ -4,7 +4,7 @@
 
 ![Design preview for the blog-codar](./assets/images/project-image.png)
 
-<h4 align="center"><a href="https://nodeprop-ten.vercel.app/" target="_blank">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://receita-waffle-classico.vercel.app/" target="_blank">Clique para visitar o projeto</a></h4>
 
 ## 📚 Sobre o projeto
 
