@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Receita Waffle Clássico
+  🥮<br>Receita Waffle Clássico
 </h1>
 
 <div align="center">
@@ -19,5 +19,5 @@ Este projeto é sobre a receita de um Waffle Clássico, onde mostra os ingredien
 
 ## 🛠️ Tecnologias utilizadas
 
-• HTML<br>
-• CSS<br>
+- HTML
+- CSS
